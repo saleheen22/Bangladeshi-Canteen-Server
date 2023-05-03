@@ -6,6 +6,7 @@
           "years_of_experience": 10,
           "number_of_recipes": 75,
           "number_of_likes": 1500,
+          "bio": "Chef Sadia Rahman is from the Dhaka district and is an expert in cooking Dhakaiya-style biryani, a fragrant rice dish made with succulent pieces of meat and aromatic spices. With over 10 years of experience, Chef Sadia has perfected the art of cooking this classic Bangladeshi dish.",
           "image_url": "https://balbetta.sirv.com/pics/sadia-rahman.jpg"
        },
        {
@@ -14,6 +15,7 @@
           "years_of_experience": 8,
           "number_of_recipes": 60,
           "number_of_likes": 1200,
+          "bio": "Chef Mizanur Rahman hails from the Sylhet district and specializes in cooking pitha, a type of rice cake typically served during winter festivals. With 8 years of experience under his belt, Chef Mizanur has mastered the art of creating unique and flavorful pitha using local ingredients and traditional techniques.",
           "image_url": "https://balbetta.sirv.com/pics/miizanur-rahman.jpg"
        },
        {
@@ -22,6 +24,7 @@
           "years_of_experience": 5,
           "number_of_recipes": 40,
           "number_of_likes": 800,
+          "bio": "Chef Fatima Akhtar is from the Chittagong district and is known for her expertise in cooking Beef dishes, these beef dishes are popular in Chittagong and whole Bangladesh. With 5 years of experience, Chef Fatima has a keen eye for detail and a talent for balancing the bold flavors of this traditional dish.",
           "image_url": "https://balbetta.sirv.com/pics/fatima-akter.jpg"
        },
        {
@@ -30,6 +33,7 @@
           "years_of_experience": 12,
           "number_of_recipes": 90,
           "number_of_likes": 1800,
+          "bio": "Chef Tariqul Islam is from the Rajshahi district and is an expert in cooking chapai shahi korma, a rich and creamy meat curry made with yogurt and a blend of spices. With over 12 years of experience, Chef Tariqul has honed his skills in cooking this classic dish to perfection.",
           "image_url": "https://balbetta.sirv.com/pics/tariqul-islam.jpg"
        },
        {
@@ -38,6 +42,7 @@
           "years_of_experience": 7,
           "number_of_recipes": 55,
           "number_of_likes": 1100,
+          "bio": "Chef Nasrin Akter comes from the Rangpur district and is an expert in cooking mishti doi, a sweet and creamy dessert made with caramelized sugar and yogurt. With 7 years of experience, Chef Nasrin has perfected the art of creating a smooth and silky texture in this beloved Bangladeshi sweet",
           "image_url": "https://balbetta.sirv.com/pics/nasrin-akter.jpg"
        },
        {
@@ -46,8 +51,10 @@
           "years_of_experience": 15,
           "number_of_recipes": 100,
           "number_of_likes": 2000,
+          "bio": "Chef Abdul Mannan is from the Barisal district and is  an expert in cooking Shorshe Ilish, a rich and creamy fish curry made with mustard and a blend of spices. With over 7 years of experience, Chef Manna has honed his skills in cooking this classic dish to perfection.",
           "image_url": "https://balbetta.sirv.com/pics/abidu-mannan.jpg"
        }
+       
     ]
  
  

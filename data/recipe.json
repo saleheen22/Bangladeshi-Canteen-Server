@@ -1,0 +1,314 @@
+[
+    {
+        "id": 1,
+        "recipe_name": "Chicken Biryani",
+        "ingredients": [
+            "2 cups of Basmati rice",
+            "1 kg chicken, cut into pieces",
+            "1 cup plain yogurt",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "1 teaspoon turmeric",
+            "1 teaspoon chili powder",
+            "1 teaspoon garam masala",
+            "1 tablespoon vegetable oil",
+            "Salt to taste",
+            "2 cups of water"
+        ],
+        "cooking_method": "1. Wash and soak the rice for 30 minutes. 2. Heat oil in a large pot and add the chicken pieces. Cook until the chicken is browned on all sides. 3. Add the ginger and garlic paste, turmeric, chili powder, and garam masala to the chicken and cook for a few minutes. 4. Add the yogurt and salt to the chicken mixture and stir well. 5. Add the soaked rice to the pot and mix well. 6. Add water to the pot and bring to a boil. 7. Reduce the heat and cover the pot. Cook for 15-20 minutes or until the rice is fully cooked. 8. Serve hot.",
+        "rating": 4.7
+    },
+    {
+        "id": 1,
+        "recipe_name": "Beef Biryani",
+        "ingredients": [
+            "2 cups of Basmati rice",
+            "1 kg beef, cut into pieces",
+            "1 cup plain yogurt",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "1 teaspoon turmeric",
+            "1 teaspoon chili powder",
+            "1 teaspoon garam masala",
+            "1 tablespoon vegetable oil",
+            "Salt to taste",
+            "2 cups of water"
+        ],
+        "cooking_method": "1. Wash and soak the rice for 30 minutes. 2. Heat oil in a large pot and add the beef pieces. Cook until the beef is browned on all sides. 3. Add the ginger and garlic paste, turmeric, chili powder, and garam masala to the beef and cook for a few minutes. 4. Add the yogurt and salt to the beef mixture and stir well. 5. Add the soaked rice to the pot and mix well. 6. Add water to the pot and bring to a boil. 7. Reduce the heat and cover the pot. Cook for 15-20 minutes or until the rice is fully cooked. 8. Serve hot.",
+        "rating": 4.9
+    },
+    {
+        "id": 1,
+        "recipe_name": "Mutton Biryani",
+        "ingredients": [
+            "2 cups of Basmati rice",
+            "1 kg mutton, cut into pieces",
+            "1 cup plain yogurt",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "1 teaspoon turmeric",
+            "1 teaspoon chili powder",
+            "1 teaspoon garam masala",
+            "1 tablespoon vegetable oil",
+            "Salt to taste",
+            "2 cups of water"
+        ],
+        "cooking_method": "1. Wash and soak the rice for 30 minutes. 2. Heat oil in a large pot and add the mutton pieces. Cook until the mutton is browned on all sides. 3. Add the ginger and garlic paste, turmeric, chili powder, and garam masala to the mutton and cook for a few minutes. 4. Add the yogurt and salt to the mutton mixture and stir well. ",
+        "rating": 4.8
+    },
+    {
+        "id": 5,
+        "recipe_name": "Mishti Doi",
+        "ingredients": [
+            "1 liter of milk",
+            "1/2 cup of sugar",
+            "1/2 teaspoon of cardamom powder",
+            "1 tablespoon of yogurt",
+            "Water"
+        ],
+        "cooking_method": "1. Heat the milk in a heavy-bottomed pan and bring it to a boil. 2. Reduce the heat and let it simmer for 10 minutes. 3. Add the sugar and stir until it dissolves. 4. Remove the pan from heat and let it cool down. 5. Once the milk has cooled down to lukewarm, add the yogurt and cardamom powder. 6. Mix well and pour the mixture into earthen pots or any other small containers. 7. Place the pots in a warm place for 6-8 hours or until the yogurt sets. 8. Once the Mishti Doi is set, refrigerate it for a few hours before serving. 9. Serve chilled.",
+        "rating": 4.8
+    },
+    {
+        "id": 5,
+        "recipe_name": "Roshogolla",
+        "ingredients": [
+            "1 liter of milk",
+            "2 tablespoons of lemon juice",
+            "2 cups of sugar",
+            "5 cups of water",
+            "A few drops of rose water"
+        ],
+        "cooking_method": "1. Heat the milk in a heavy-bottomed pan and bring it to a boil. 2. Reduce the heat and add the lemon juice. Stir until the milk curdles and the whey separates. 3. Turn off the heat and let the milk sit for a few minutes. 4. Strain the curdled milk through a muslin cloth or a cheesecloth. 5. Rinse the curdled milk under cold water to remove the lemon flavor. 6. Tie the cloth with the curdled milk and hang it for 1 hour to remove the excess water. 7. After an hour, knead the chenna (cottage cheese) until it becomes smooth. 8. Divide the chenna into small balls. 9. In another pan, add the sugar and water and bring it to a boil. 10. Add the chenna balls to the boiling sugar syrup and cover the pan. 11. Cook for 10-12 minutes or until the chenna balls"
+    },
+    {
+        "id": 3,
+        "recipe_name": "Beef Bhuna",
+        "ingredients": [
+            "1 lb beef, cut into small pieces",
+            "2 onions, sliced",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "2 green chilies, chopped",
+            "1/2 teaspoon turmeric powder",
+            "1 teaspoon cumin powder",
+            "1 teaspoon coriander powder",
+            "1/2 teaspoon chili powder",
+            "1/2 cup water",
+            "2 tablespoons oil",
+            "Salt, to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and add the sliced onions. Fry until they turn golden brown. 2. Add the ginger paste, garlic paste, and green chilies. Fry for a few more minutes. 3. Add the beef and fry until it changes color. 4. Add the turmeric powder, cumin powder, coriander powder, chili powder, and salt. Fry for a few more minutes. 5. Add water, cover the pan and cook until the beef is tender. 6. Remove the lid and continue cooking until the water dries up and the beef becomes dry. 7. Serve hot with rice or naan bread.",
+        "rating": 4.9
+    },
+    {
+        "id": 3,
+        "recipe_name": "Beef Rezala",
+        "ingredients": [
+            "1 lb beef, cut into small pieces",
+            "1 onion, sliced",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "2 green chilies, chopped",
+            "1/2 cup plain yogurt",
+            "1/2 teaspoon sugar",
+            "1/2 teaspoon white pepper powder",
+            "1/2 teaspoon coriander powder",
+            "1/2 teaspoon cumin powder",
+            "1/4 teaspoon nutmeg powder",
+            "1/4 teaspoon mace powder",
+            "2 tablespoons oil",
+            "Salt, to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and add the sliced onions. Fry until they turn golden brown. 2. Add the ginger paste, garlic paste, and green chilies. Fry for a few more minutes. 3. Add the beef and fry until it changes color. 4. Add the sugar, white pepper powder, coriander powder, cumin powder, nutmeg powder, mace powder, and salt. Fry for a few more minutes. 5. Add the plain yogurt and mix well. 6. Add water, cover the pan and cook until the beef is tender. 7. Remove the lid and continue cooking until the gravy thickens. 8. Serve hot with rice or naan bread.",
+        "rating": 4.9
+    },
+    {
+        "id": 6,
+        "recipe_name": "Shorshe Ilish (Mustard Hilsha Fish Curry)",
+        "ingredients": [
+            "4-6 pieces of Hilsha fish",
+            "2 tbsp mustard oil",
+            "1 tbsp black mustard seeds",
+            "1 tbsp white mustard seeds",
+            "2-3 green chilies",
+            "1/2 tsp turmeric powder",
+            "1/2 tsp red chili powder",
+            "1/2 tsp salt",
+            "1/2 cup water",
+            "1 tbsp chopped coriander leaves"
+        ],
+        "cooking_method": "1. Grind the black and white mustard seeds with water to form a smooth paste. 2. Add salt, turmeric, red chili powder and green chilies to the paste and mix well. 3. Marinate the Hilsha fish pieces with the paste for 10-15 minutes. 4. Heat mustard oil in a pan and fry the fish pieces until golden brown on both sides. 5. Add the remaining marinade paste and water to the pan and bring it to a boil. 6. Cover the pan and cook for 10-15 minutes on low heat. 7. Garnish with coriander leaves and serve hot with steamed rice.",
+        "rating": 4.7
+    },
+    {
+        "id": 6,
+        "recipe_name": "Bhapa Ilish (Steamed Mustard Hilsha Fish Curry)",
+        "ingredients": [
+            "4-6 pieces of Hilsha fish",
+            "2 tbsp mustard oil",
+            "1 tbsp black mustard seeds",
+            "1 tbsp white mustard seeds",
+            "2-3 green chilies",
+            "1/2 tsp turmeric powder",
+            "1/2 tsp red chili powder",
+            "1/2 tsp salt",
+            "1/2 cup water",
+            "1 tbsp chopped coriander leaves"
+        ],
+        "cooking_method": "1. Grind the black and white mustard seeds with water to form a smooth paste. 2. Add salt, turmeric, red chili powder and green chilies to the paste and mix well. 3. Marinate the Hilsha fish pieces with the paste for 10-15 minutes. 4. Take a steaming pot and put the marinated fish pieces in it. 5. Cover the pot and steam the fish for 15-20 minutes on medium heat. 6. Heat mustard oil in a pan and add the remaining marinade paste. Fry it until the oil separates. 7. Pour the fried marinade over the steamed fish. 8. Garnish with coriander leaves and serve hot with steamed rice.",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "recipe_name": "Chitoi Pitha",
+        "ingredients": [
+            "1 cup rice flour",
+            "1/2 cup water",
+            "1/4 cup coconut milk",
+            "1 tsp salt",
+            "1 tsp sugar",
+            "2-3 tbsp sesame seeds",
+            "2-3 tbsp vegetable oil"
+        ],
+        "cooking_method": "1. In a large mixing bowl, combine the rice flour, salt, and sugar. 2. Add the water and coconut milk gradually, mixing well to form a smooth dough. 3. Knead the dough for 2-3 minutes until it becomes soft and pliable. 4. Divide the dough into small portions and roll them into balls. 5. Flatten each ball into a small disc shape. 6. Coat each disc with sesame seeds. 7. Heat a non-stick pan over medium heat and add vegetable oil. 8. Place the discs on the pan and cook for 1-2 minutes on each side until they become golden brown. 9. Serve hot with tea or as a snack.",
+        "rating": 4.8
+    },
+    {
+        "id": 2,
+        "recipe_name": "Puli Pitha",
+        "ingredients": [
+            "1 cup rice flour",
+            "1/2 cup water",
+            "1/4 cup grated coconut",
+            "1/4 cup jaggery (gur)",
+            "1/4 tsp salt",
+            "2-3 cardamom pods",
+            "1-2 tbsp vegetable oil"
+        ],
+        "cooking_method": "1. In a large mixing bowl, combine the rice flour and salt. 2. Add the water gradually, mixing well to form a smooth dough. 3. Knead the dough for 2-3 minutes until it becomes soft and pliable. 4. In another bowl, mix together the grated coconut, jaggery, and cardamom pods. 5. Divide the rice flour dough into small portions and roll them into balls. 6. Flatten each ball into a small disc shape. 7. Place a small amount of the coconut-jaggery filling in the center of each disc. 8. Fold the disc over the filling and pinch the edges together to form a sealed ball. 9. Steam the balls for 10-15 minutes until they become firm. 10. Heat a non-stick pan over medium heat and add vegetable oil. 11. Fry the steamed balls until they become golden brown on both sides. 12. Serve hot as a dessert.",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "recipe_name": "Roshogolla",
+        "ingredients": [
+            "1 liter of milk",
+            "2 tablespoons of lemon juice",
+            "2 cups of sugar",
+            "5 cups of water",
+            "A few drops of rose water"
+        ],
+        "cooking_method": "1. Heat the milk in a heavy-bottomed pan and bring it to a boil. 2. Reduce the heat and add the lemon juice. Stir until the milk curdles and the whey separates. 3. Turn off the heat and let the milk sit for a few minutes. 4. Strain the curdled milk through a muslin cloth or a cheesecloth. 5. Rinse the curdled milk under cold water to remove the lemon flavor. 6. Tie the cloth with the curdled milk and hang it for 1 hour to remove the excess water. 7. After an hour, knead the chenna (cottage cheese) until it becomes smooth. 8. Divide the chenna into small balls. 9. In another pan, add the sugar and water and bring it to a boil. 10. Add the chenna balls to the boiling sugar syrup and cover the pan. 11. Cook for 10-12 minutes or until the chenna balls"
+    },
+    {
+        "id": 3,
+        "recipe_name": "Beef Biryani",
+        "ingredients": [
+            "2 cups of Basmati rice",
+            "1 kg beef, cut into pieces",
+            "1 cup plain yogurt",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "1 teaspoon turmeric",
+            "1 teaspoon chili powder",
+            "1 teaspoon garam masala",
+            "1 tablespoon vegetable oil",
+            "Salt to taste",
+            "2 cups of water"
+        ],
+        "cooking_method": "1. Wash and soak the rice for 30 minutes. 2. Heat oil in a large pot and add the beef pieces. Cook until the beef is browned on all sides. 3. Add the ginger and garlic paste, turmeric, chili powder, and garam masala to the beef and cook for a few minutes. 4. Add the yogurt and salt to the beef mixture and stir well. 5. Add the soaked rice to the pot and mix well. 6. Add water to the pot and bring to a boil. 7. Reduce the heat and cover the pot. Cook for 15-20 minutes or until the rice is fully cooked. 8. Serve hot.",
+        "rating": 4.9
+    },
+    {
+        "id": 4,
+        "recipe_name": "Chicken Biryani",
+        "ingredients": [
+            "2 cups of Basmati rice",
+            "1 kg chicken, cut into pieces",
+            "1 cup plain yogurt",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "1 teaspoon turmeric",
+            "1 teaspoon chili powder",
+            "1 teaspoon garam masala",
+            "1 tablespoon vegetable oil",
+            "Salt to taste",
+            "2 cups of water"
+        ],
+        "cooking_method": "1. Wash and soak the rice for 30 minutes. 2. Heat oil in a large pot and add the chicken pieces. Cook until the chicken is browned on all sides. 3. Add the ginger and garlic paste, turmeric, chili powder, and garam masala to the chicken and cook for a few minutes. 4. Add the yogurt and salt to the chicken mixture and stir well. 5. Add the soaked rice to the pot and mix well. 6. Add water to the pot and bring to a boil. 7. Reduce the heat and cover the pot. Cook for 15-20 minutes or until the rice is fully cooked. 8. Serve hot.",
+        "rating": 4.7
+    },
+    {
+        "id": 4,
+        "recipe_name": "Beef Biryani",
+        "ingredients": [
+            "2 cups of Basmati rice",
+            "1 kg beef, cut into pieces",
+            "1 cup plain yogurt",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "1 teaspoon turmeric",
+            "1 teaspoon chili powder",
+            "1 teaspoon garam masala",
+            "1 tablespoon vegetable oil",
+            "Salt to taste",
+            "2 cups of water"
+        ],
+        "cooking_method": "1. Wash and soak the rice for 30 minutes. 2. Heat oil in a large pot and add the beef pieces. Cook until the beef is browned on all sides. 3. Add the ginger and garlic paste, turmeric, chili powder, and garam masala to the beef and cook for a few minutes. 4. Add the yogurt and salt to the beef mixture and stir well. 5. Add the soaked rice to the pot and mix well. 6. Add water to the pot and bring to a boil. 7. Reduce the heat and cover the pot. Cook for 15-20 minutes or until the rice is fully cooked. 8. Serve hot.",
+        "rating": 4.9
+    },
+    {
+        "id": 4,
+        "recipe_name": "Mutton Biryani",
+        "ingredients": [
+            "2 cups of Basmati rice",
+            "1 kg mutton, cut into pieces",
+            "1 cup plain yogurt",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "1 teaspoon turmeric",
+            "1 teaspoon chili powder",
+            "1 teaspoon garam masala",
+            "1 tablespoon vegetable oil",
+            "Salt to taste",
+            "2 cups of water"
+        ],
+        "cooking_method": "1. Wash and soak the rice for 30 minutes. 2. Heat oil in a large pot and add the mutton pieces. Cook until the mutton is browned on all sides. 3. Add the ginger and garlic paste, turmeric, chili powder, and garam masala to the mutton and cook for a few minutes. 4. Add the yogurt and salt to the mutton mixture and stir well. ",
+        "rating": 4.8
+    },
+    {
+        "id": 5,
+        "recipe_name": "Mutton Biryani",
+        "ingredients": [
+            "2 cups of Basmati rice",
+            "1 kg mutton, cut into pieces",
+            "1 cup plain yogurt",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "1 teaspoon turmeric",
+            "1 teaspoon chili powder",
+            "1 teaspoon garam masala",
+            "1 tablespoon vegetable oil",
+            "Salt to taste",
+            "2 cups of water"
+        ],
+        "cooking_method": "1. Wash and soak the rice for 30 minutes. 2. Heat oil in a large pot and add the mutton pieces. Cook until the mutton is browned on all sides. 3. Add the ginger and garlic paste, turmeric, chili powder, and garam masala to the mutton and cook for a few minutes. 4. Add the yogurt and salt to the mutton mixture and stir well. ",
+        "rating": 4.8
+    },
+    {
+        "id": 6,
+        "recipe_name": "Chitoi Pitha",
+        "ingredients": [
+            "1 cup rice flour",
+            "1/2 cup water",
+            "1/4 cup coconut milk",
+            "1 tsp salt",
+            "1 tsp sugar",
+            "2-3 tbsp sesame seeds",
+            "2-3 tbsp vegetable oil"
+        ],
+        "cooking_method": "1. In a large mixing bowl, combine the rice flour, salt, and sugar. 2. Add the water and coconut milk gradually, mixing well to form a smooth dough. 3. Knead the dough for 2-3 minutes until it becomes soft and pliable. 4. Divide the dough into small portions and roll them into balls. 5. Flatten each ball into a small disc shape. 6. Coat each disc with sesame seeds. 7. Heat a non-stick pan over medium heat and add vegetable oil. 8. Place the discs on the pan and cook for 1-2 minutes on each side until they become golden brown. 9. Serve hot with tea or as a snack.",
+        "rating": 4.8
+    }
+]

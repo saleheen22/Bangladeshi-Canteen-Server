@@ -1,4 +1,5 @@
 const  chef = require('./data/chef.json');
+const  recipes = require('./data/recipe.json');
 const express  = require('express');
 const app = express();
 const port = process.env.PORT || 5000;
@@ -11,6 +12,21 @@ app.get('/', (req, res)=> {
 
 app.get('/chefs', (req, res)=>{
     res.send(chef);
+})
+app.get('/chefs/:id', (req, res)=>{
+    const id = req.params.id;
+    res.send(chef.find(n=> n.id == id));
+    
+    // res.send(chef);
+})
+app.get('/recipes', (req, res)=>{
+    res.send(recipes);
+})
+app.get('/recipes/:id', (req, res)=>{
+    const id = req.params.id;
+    res.send(recipes.filter(n=> n.id == id))
+
+    // res.send(chef);
 })
 
 
