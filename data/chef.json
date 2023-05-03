@@ -6,7 +6,7 @@
           "years_of_experience": 10,
           "number_of_recipes": 75,
           "number_of_likes": 1500,
-          "image_url": "../data/pics/sadia-rahman-removebg-preview.png"
+          "image_url": "https://balbetta.sirv.com/pics/sadia-rahman.jpg"
        },
        {
           "id": 2,
@@ -14,7 +14,7 @@
           "years_of_experience": 8,
           "number_of_recipes": 60,
           "number_of_likes": 1200,
-          "image_url": "../data/pics/miizanur-rahman-removebg-preview.png"
+          "image_url": "https://balbetta.sirv.com/pics/miizanur-rahman.jpg"
        },
        {
           "id": 3,
@@ -22,7 +22,7 @@
           "years_of_experience": 5,
           "number_of_recipes": 40,
           "number_of_likes": 800,
-          "image_url": "../data/pics/fatima-akter-removebg-preview.png"
+          "image_url": "https://balbetta.sirv.com/pics/fatima-akter.jpg"
        },
        {
           "id": 4,
@@ -30,7 +30,7 @@
           "years_of_experience": 12,
           "number_of_recipes": 90,
           "number_of_likes": 1800,
-          "image_url": "../data/pics/tariqul-islam-removebg-preview.png"
+          "image_url": "https://balbetta.sirv.com/pics/tariqul-islam.jpg"
        },
        {
           "id": 5,
@@ -38,8 +38,7 @@
           "years_of_experience": 7,
           "number_of_recipes": 55,
           "number_of_likes": 1100,
-          "public_url": "https://www.example.com/nasrinakter",
-          "image_url": "../data/pics/nasrin-akter-removebg.png"
+          "image_url": "https://balbetta.sirv.com/pics/nasrin-akter.jpg"
        },
        {
           "id": 6,
@@ -47,7 +46,7 @@
           "years_of_experience": 15,
           "number_of_recipes": 100,
           "number_of_likes": 2000,
-          "image_url": "../data/pics/abdul-mannan-removebg-preview.png"
+          "image_url": "https://balbetta.sirv.com/pics/abidu-mannan.jpg"
        }
     ]
  
