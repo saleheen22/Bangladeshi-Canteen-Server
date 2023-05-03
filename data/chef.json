@@ -6,8 +6,7 @@
           "years_of_experience": 10,
           "number_of_recipes": 75,
           "number_of_likes": 1500,
-          "public_url": "https://www.example.com/sadiarahman",
-          "image_url": "https://images.unsplash.com/photo-1621393357641-ff6c3cde70e4"
+          "image_url": "../data/pics/sadia-rahman-removebg-preview.png"
        },
        {
           "id": 2,
@@ -15,8 +14,7 @@
           "years_of_experience": 8,
           "number_of_recipes": 60,
           "number_of_likes": 1200,
-          "public_url": "https://www.example.com/mizanurrahman",
-          "image_url": "https://images.unsplash.com/photo-1606783299471-60b4432c4324"
+          "image_url": "../data/pics/miizanur-rahman-removebg-preview.png"
        },
        {
           "id": 3,
@@ -24,8 +22,7 @@
           "years_of_experience": 5,
           "number_of_recipes": 40,
           "number_of_likes": 800,
-          "public_url": "https://www.example.com/fatimaakhtar",
-          "image_url": "https://images.unsplash.com/photo-1620136862461-77313e6d8c26"
+          "image_url": "../data/pics/fatima-akter-removebg-preview.png"
        },
        {
           "id": 4,
@@ -33,8 +30,7 @@
           "years_of_experience": 12,
           "number_of_recipes": 90,
           "number_of_likes": 1800,
-          "public_url": "https://www.example.com/tariqulislam",
-          "image_url": "https://images.unsplash.com/photo-1589462538762-18d856c3fdad"
+          "image_url": "../data/pics/tariqul-islam-removebg-preview.png"
        },
        {
           "id": 5,
@@ -43,7 +39,7 @@
           "number_of_recipes": 55,
           "number_of_likes": 1100,
           "public_url": "https://www.example.com/nasrinakter",
-          "image_url": "https://images.unsplash.com/photo-1607633823355-4d3dbdfc03c1"
+          "image_url": "../data/pics/nasrin-akter-removebg.png"
        },
        {
           "id": 6,
@@ -51,8 +47,7 @@
           "years_of_experience": 15,
           "number_of_recipes": 100,
           "number_of_likes": 2000,
-          "public_url": "https://www.example.com/abdulmannan",
-          "image_url": "https://images.unsplash.com/photo-1589815864186-6225eb732f5c"
+          "image_url": "../data/pics/abdul-mannan-removebg-preview.png"
        }
     ]
  
